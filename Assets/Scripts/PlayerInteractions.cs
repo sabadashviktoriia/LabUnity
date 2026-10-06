@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class TesterInteractions : MonoBehaviour
+public class PlayerInteractions : MonoBehaviour
 {
     private void OnCollisionEnter(Collision collision)
     {
